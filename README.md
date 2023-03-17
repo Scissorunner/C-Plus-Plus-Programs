@@ -1,2 +1,2 @@
-# C-Plus-Plus-Programs
-Collection of programs written in C++
+# C++ Programs
+Collection of simple programs written in C++
